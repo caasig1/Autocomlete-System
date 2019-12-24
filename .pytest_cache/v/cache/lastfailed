@@ -1,0 +1,10 @@
+{
+  "test_autocomplete_engines.py": true,
+  "test_compressed_prefix_tree.py::test_autocomplete": true,
+  "test_compressed_prefix_tree.py::test_cpt_rep_invariant": true,
+  "test_compressed_prefix_tree.py::test_insert": true,
+  "test_compressed_prefix_tree.py::test_insert_2": true,
+  "test_compressed_prefix_tree.py::test_remove": true,
+  "test_simple_prefix_tree.py::test_insert": true,
+  "test_simple_prefix_tree.py::test_remove": true
+}
